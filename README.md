@@ -1,0 +1,1 @@
+This project is a tiny implementation of the `tail` command in Ruby. It is the result of the instructions explained in the post [Implementing tail command in Ruby](https://bitsofknowledge.net/implementing-tail-command-in-ruby/) and it is stored here for the free use of everybody.
